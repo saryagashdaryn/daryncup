@@ -1,0 +1,1283 @@
+{
+  "demo": false,
+  "teams": [
+    {
+      "id": "team-2",
+      "color": "#c8f36a",
+      "name": "FC LEGACY"
+    },
+    {
+      "id": "team-3",
+      "color": "#64d9c1",
+      "name": "Oppenheimer"
+    },
+    {
+      "id": "team-4",
+      "color": "#ff987d",
+      "name": "Vortex"
+    },
+    {
+      "id": "team-5",
+      "color": "#61b4ff",
+      "name": "YOUNG BOYS"
+    },
+    {
+      "id": "team-6",
+      "color": "#a194ff",
+      "name": "FC TYPHOON 🌀"
+    },
+    {
+      "id": "team-7",
+      "color": "#f7cd68",
+      "name": "ALASH PRIDE"
+    },
+    {
+      "id": "team-8",
+      "color": "#ec99d1",
+      "name": "7 Qaraqshy"
+    },
+    {
+      "id": "team-9",
+      "color": "#80a8fa",
+      "name": "FC Eight"
+    }
+  ],
+  "players": [
+    {
+      "id": "player-2-6",
+      "name": "7Ерсұлтан",
+      "team": "team-2",
+      "base": 0
+    },
+    {
+      "id": "player-2-7",
+      "name": "8Уринбаев Азамат",
+      "team": "team-2",
+      "base": 0
+    },
+    {
+      "id": "player-2-8",
+      "name": "8Тиллабеков Жандос Айбекович",
+      "team": "team-2",
+      "base": 0
+    },
+    {
+      "id": "player-2-9",
+      "name": "8Алиханов Багдат",
+      "team": "team-2",
+      "base": 0
+    },
+    {
+      "id": "player-2-10",
+      "name": "9Асылхан Аслан",
+      "team": "team-2",
+      "base": 0
+    },
+    {
+      "id": "player-2-11",
+      "name": "10Доскулыев Иманғали",
+      "team": "team-2",
+      "base": 0
+    },
+    {
+      "id": "player-3-6",
+      "name": "7Өмірзақ Мерейхан",
+      "team": "team-3",
+      "base": 0
+    },
+    {
+      "id": "player-3-7",
+      "name": "8Рахыш Дарын",
+      "team": "team-3",
+      "base": 0
+    },
+    {
+      "id": "player-3-8",
+      "name": "8Мұхтар Бейбарыс",
+      "team": "team-3",
+      "base": 0
+    },
+    {
+      "id": "player-3-9",
+      "name": "9Сраждин Дархан",
+      "team": "team-3",
+      "base": 0
+    },
+    {
+      "id": "player-3-10",
+      "name": "9Бейсенқұл Жомарт",
+      "team": "team-3",
+      "base": 0
+    },
+    {
+      "id": "player-3-11",
+      "name": "10Әшірбек Жасұлан",
+      "team": "team-3",
+      "base": 0
+    },
+    {
+      "id": "player-4-6",
+      "name": "7Мұхтар Нұрдос Жандосұлы",
+      "team": "team-4",
+      "base": 0
+    },
+    {
+      "id": "player-4-7",
+      "name": "7Маханов Нұртас",
+      "team": "team-4",
+      "base": 0
+    },
+    {
+      "id": "player-4-8",
+      "name": "8Пердебек Омар",
+      "team": "team-4",
+      "base": 0
+    },
+    {
+      "id": "player-4-9",
+      "name": "8Қалдыбай Дияр",
+      "team": "team-4",
+      "base": 0
+    },
+    {
+      "id": "player-4-10",
+      "name": "9Мұса Нұрислам",
+      "team": "team-4",
+      "base": 0
+    },
+    {
+      "id": "player-4-11",
+      "name": "9Мади Иманғали Талғатұлы",
+      "team": "team-4",
+      "base": 0
+    },
+    {
+      "id": "player-4-12",
+      "name": "10Сейдулла Ернат",
+      "team": "team-4",
+      "base": 0
+    },
+    {
+      "id": "player-5-6",
+      "name": "7Балғабай Саян",
+      "team": "team-5",
+      "base": 0
+    },
+    {
+      "id": "player-5-7",
+      "name": "8Марахан Алихан Бақытжанұлы",
+      "team": "team-5",
+      "base": 0
+    },
+    {
+      "id": "player-5-8",
+      "name": "8Әділ Нұрсаят",
+      "team": "team-5",
+      "base": 0
+    },
+    {
+      "id": "player-5-9",
+      "name": "8Қадыр Нурдаулет",
+      "team": "team-5",
+      "base": 0
+    },
+    {
+      "id": "player-5-10",
+      "name": "9Асан Нұраят",
+      "team": "team-5",
+      "base": 0
+    },
+    {
+      "id": "player-5-11",
+      "name": "10Ергеш Нұртас",
+      "team": "team-5",
+      "base": 0
+    },
+    {
+      "id": "player-5-12",
+      "name": "10Нұрман Нұрислам",
+      "team": "team-5",
+      "base": 0
+    },
+    {
+      "id": "player-6-6",
+      "name": "7Мұхтар Мирас Бағдатұлы",
+      "team": "team-6",
+      "base": 0
+    },
+    {
+      "id": "player-6-7",
+      "name": "7Әбілхан Жігер",
+      "team": "team-6",
+      "base": 0
+    },
+    {
+      "id": "player-6-8",
+      "name": "8Жүніс Нұрдәулет",
+      "team": "team-6",
+      "base": 0
+    },
+    {
+      "id": "player-6-9",
+      "name": "8Мусабеков Еркебулан",
+      "team": "team-6",
+      "base": 0
+    },
+    {
+      "id": "player-6-10",
+      "name": "9Тохсанбай Ануар",
+      "team": "team-6",
+      "base": 0
+    },
+    {
+      "id": "player-6-11",
+      "name": "9Балтабай Аянат",
+      "team": "team-6",
+      "base": 0
+    },
+    {
+      "id": "player-6-12",
+      "name": "10Лесбай Нұрхан",
+      "team": "team-6",
+      "base": 0
+    },
+    {
+      "id": "player-7-6",
+      "name": "7Шардарбек Нұрасыл",
+      "team": "team-7",
+      "base": 0
+    },
+    {
+      "id": "player-7-7",
+      "name": "8Есіркеп Нұржігіт",
+      "team": "team-7",
+      "base": 0
+    },
+    {
+      "id": "player-7-8",
+      "name": "8Жұмабек Иманғали",
+      "team": "team-7",
+      "base": 0
+    },
+    {
+      "id": "player-7-9",
+      "name": "9Алтынбек Бақыт",
+      "team": "team-7",
+      "base": 0
+    },
+    {
+      "id": "player-7-10",
+      "name": "9Сеилхан Жаннұр",
+      "team": "team-7",
+      "base": 0
+    },
+    {
+      "id": "player-7-11",
+      "name": "10Айдаров Шохан Арманұлы",
+      "team": "team-7",
+      "base": 0
+    },
+    {
+      "id": "player-7-12",
+      "name": "10Орманов Асыләлі",
+      "team": "team-7",
+      "base": 0
+    },
+    {
+      "id": "player-8-6",
+      "name": "7Кикбай Ахмет",
+      "team": "team-8",
+      "base": 0
+    },
+    {
+      "id": "player-8-7",
+      "name": "7Төлеген Мирас",
+      "team": "team-8",
+      "base": 0
+    },
+    {
+      "id": "player-8-8",
+      "name": "8Насірбек Ерсұлтан",
+      "team": "team-8",
+      "base": 0
+    },
+    {
+      "id": "player-8-9",
+      "name": "8Қуаныш Нұрали",
+      "team": "team-8",
+      "base": 0
+    },
+    {
+      "id": "player-8-10",
+      "name": "9Дүйсебек Бексұлтан",
+      "team": "team-8",
+      "base": 0
+    },
+    {
+      "id": "player-8-11",
+      "name": "10Сырлыбай Мадияр",
+      "team": "team-8",
+      "base": 0
+    },
+    {
+      "id": "player-8-12",
+      "name": "10Абдуғали Руслан",
+      "team": "team-8",
+      "base": 0
+    },
+    {
+      "id": "player-9-6",
+      "name": "7Абдуәлі Бағжан",
+      "team": "team-9",
+      "base": 0
+    },
+    {
+      "id": "player-9-7",
+      "name": "7Әділбек Ерсұлтан",
+      "team": "team-9",
+      "base": 0
+    },
+    {
+      "id": "player-9-8",
+      "name": "8Үсіпхан Мұхан",
+      "team": "team-9",
+      "base": 0
+    },
+    {
+      "id": "player-9-9",
+      "name": "8Холмирза Ринат",
+      "team": "team-9",
+      "base": 0
+    },
+    {
+      "id": "player-9-10",
+      "name": "9Худайберген Әділет",
+      "team": "team-9",
+      "base": 0
+    },
+    {
+      "id": "player-9-11",
+      "name": "9Дусжан Бағжан",
+      "team": "team-9",
+      "base": 0
+    }
+  ],
+  "rounds": [
+    {
+      "id": "round-1",
+      "name": "1-тур",
+      "date": "2026-09-30",
+      "start": "16:30",
+      "matches": [
+        {
+          "id": "match-01",
+          "a": "team-2",
+          "b": "team-9",
+          "sa": "1",
+          "sb": "0",
+          "goals": {
+            "player-2-7": 1
+          },
+          "cards": {},
+          "notes": {},
+          "number": 1,
+          "cycle": 1
+        },
+        {
+          "id": "match-02",
+          "a": "team-3",
+          "b": "team-8",
+          "sa": "2",
+          "sb": "0",
+          "goals": {
+            "player-3-7": 2
+          },
+          "cards": {},
+          "notes": {},
+          "number": 2,
+          "cycle": 1
+        },
+        {
+          "id": "match-03",
+          "a": "team-4",
+          "b": "team-7",
+          "sa": "1",
+          "sb": "0",
+          "goals": {
+            "player-4-8": 1
+          },
+          "cards": {},
+          "notes": {},
+          "number": 3,
+          "cycle": 1
+        },
+        {
+          "id": "match-04",
+          "a": "team-5",
+          "b": "team-6",
+          "sa": "0",
+          "sb": "2",
+          "goals": {
+            "player-6-10": 2
+          },
+          "cards": {
+            "player-5-11": {
+              "yellow": 1,
+              "red": 0
+            }
+          },
+          "notes": {},
+          "number": 4,
+          "cycle": 1
+        }
+      ]
+    },
+    {
+      "id": "round-2",
+      "name": "2-тур",
+      "date": "2026-10-01",
+      "start": "16:30",
+      "matches": [
+        {
+          "id": "match-05",
+          "a": "team-8",
+          "b": "team-2",
+          "sa": "0",
+          "sb": "10",
+          "goals": {
+            "player-2-6": 1,
+            "player-2-7": 2,
+            "player-2-8": 1,
+            "player-2-9": 1,
+            "player-2-10": 3,
+            "player-2-11": 2
+          },
+          "cards": {},
+          "notes": {},
+          "number": 5,
+          "cycle": 1
+        },
+        {
+          "id": "match-06",
+          "a": "team-7",
+          "b": "team-9",
+          "sa": "2",
+          "sb": "0",
+          "goals": {
+            "player-7-10": 1,
+            "player-7-12": 1
+          },
+          "cards": {},
+          "notes": {},
+          "number": 6,
+          "cycle": 1
+        },
+        {
+          "id": "match-07",
+          "a": "team-6",
+          "b": "team-3",
+          "sa": "2",
+          "sb": "2",
+          "goals": {
+            "player-6-9": 1,
+            "player-6-10": 1,
+            "player-3-7": 2
+          },
+          "cards": {
+            "player-6-10": {
+              "yellow": 1,
+              "red": 0
+            }
+          },
+          "notes": {},
+          "number": 7,
+          "cycle": 1
+        },
+        {
+          "id": "match-08",
+          "a": "team-5",
+          "b": "team-4",
+          "sa": "1",
+          "sb": "2",
+          "goals": {
+            "player-5-11": 1,
+            "player-4-8": 1,
+            "player-4-10": 1
+          },
+          "cards": {
+            "player-5-11": {
+              "yellow": 1,
+              "red": 0
+            },
+            "player-4-8": {
+              "yellow": 1,
+              "red": 0
+            }
+          },
+          "notes": {},
+          "number": 8,
+          "cycle": 1
+        }
+      ]
+    },
+    {
+      "id": "round-3",
+      "name": "3-тур",
+      "date": "2026-10-07",
+      "start": "16:30",
+      "matches": [
+        {
+          "id": "match-09",
+          "a": "team-2",
+          "b": "team-7",
+          "sa": "3",
+          "sb": "1",
+          "goals": {
+            "player-2-7": 1,
+            "player-2-11": 2,
+            "player-7-9": 1
+          },
+          "cards": {},
+          "notes": {},
+          "number": 9,
+          "cycle": 1
+        },
+        {
+          "id": "match-10",
+          "a": "team-8",
+          "b": "team-6",
+          "sa": "0",
+          "sb": "3",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 10,
+          "cycle": 1
+        },
+        {
+          "id": "match-11",
+          "a": "team-9",
+          "b": "team-5",
+          "sa": "0",
+          "sb": "2",
+          "goals": {
+            "player-5-10": 1,
+            "player-5-12": 1
+          },
+          "cards": {},
+          "notes": {},
+          "number": 11,
+          "cycle": 1
+        },
+        {
+          "id": "match-12",
+          "a": "team-3",
+          "b": "team-4",
+          "sa": "2",
+          "sb": "1",
+          "goals": {
+            "player-3-7": 1,
+            "player-3-11": 1,
+            "player-4-8": 1
+          },
+          "cards": {
+            "player-3-8": {
+              "yellow": 1,
+              "red": 0
+            },
+            "player-3-9": {
+              "yellow": 1,
+              "red": 0
+            }
+          },
+          "notes": {},
+          "number": 12,
+          "cycle": 1
+        }
+      ]
+    },
+    {
+      "id": "round-4",
+      "name": "4-тур",
+      "date": "2026-10-08",
+      "start": "16:30",
+      "matches": [
+        {
+          "id": "match-13",
+          "a": "team-6",
+          "b": "team-2",
+          "sa": "0",
+          "sb": "1",
+          "goals": {
+            "player-2-10": 1
+          },
+          "cards": {},
+          "notes": {},
+          "number": 13,
+          "cycle": 1
+        },
+        {
+          "id": "match-14",
+          "a": "team-5",
+          "b": "team-7",
+          "sa": "1",
+          "sb": "0",
+          "goals": {
+            "player-5-11": 1
+          },
+          "cards": {},
+          "notes": {},
+          "number": 14,
+          "cycle": 1
+        },
+        {
+          "id": "match-15",
+          "a": "team-4",
+          "b": "team-8",
+          "sa": "1",
+          "sb": "0",
+          "goals": {
+            "player-4-10": 1
+          },
+          "cards": {
+            "player-4-9": {
+              "yellow": 1,
+              "red": 0
+            }
+          },
+          "notes": {},
+          "number": 15,
+          "cycle": 1
+        },
+        {
+          "id": "match-16",
+          "a": "team-3",
+          "b": "team-9",
+          "sa": "4",
+          "sb": "2",
+          "goals": {
+            "player-3-6": 1,
+            "player-3-9": 1,
+            "player-3-11": 2,
+            "player-9-10": 1,
+            "player-9-11": 1
+          },
+          "cards": {},
+          "notes": {},
+          "number": 16,
+          "cycle": 1
+        }
+      ]
+    },
+    {
+      "id": "round-5",
+      "name": "5-тур",
+      "date": "2026-10-14",
+      "start": "16:30",
+      "matches": [
+        {
+          "id": "match-17",
+          "a": "team-2",
+          "b": "team-5",
+          "sa": "2",
+          "sb": "1",
+          "goals": {
+            "player-2-10": 1,
+            "player-2-11": 1,
+            "player-5-11": 1
+          },
+          "cards": {},
+          "notes": {},
+          "number": 17,
+          "cycle": 1
+        },
+        {
+          "id": "match-18",
+          "a": "team-6",
+          "b": "team-4",
+          "sa": "1",
+          "sb": "1",
+          "goals": {
+            "player-6-10": 1,
+            "player-4-8": 1
+          },
+          "cards": {
+            "player-4-9": {
+              "yellow": 1,
+              "red": 0
+            },
+            "player-4-12": {
+              "yellow": 1,
+              "red": 0
+            }
+          },
+          "notes": {},
+          "number": 18,
+          "cycle": 1
+        },
+        {
+          "id": "match-19",
+          "a": "team-7",
+          "b": "team-3",
+          "sa": "3",
+          "sb": "2",
+          "goals": {
+            "player-7-8": 1,
+            "player-7-9": 1,
+            "player-7-10": 1,
+            "player-3-9": 1,
+            "player-3-11": 1
+          },
+          "cards": {},
+          "notes": {},
+          "number": 19,
+          "cycle": 1
+        },
+        {
+          "id": "match-20",
+          "a": "team-8",
+          "b": "team-9",
+          "sa": "1",
+          "sb": "1",
+          "goals": {
+            "player-8-8": 1,
+            "player-9-11": 1
+          },
+          "cards": {
+            "player-9-10": {
+              "yellow": 1,
+              "red": 0
+            }
+          },
+          "notes": {},
+          "number": 20,
+          "cycle": 1
+        }
+      ]
+    },
+    {
+      "id": "round-6",
+      "name": "6-тур",
+      "date": "2026-10-15",
+      "start": "16:30",
+      "matches": [
+        {
+          "id": "match-21",
+          "a": "team-4",
+          "b": "team-2",
+          "sa": "1",
+          "sb": "3",
+          "goals": {
+            "player-4-10": 1,
+            "player-2-10": 3
+          },
+          "cards": {},
+          "notes": {},
+          "number": 21,
+          "cycle": 1
+        },
+        {
+          "id": "match-22",
+          "a": "team-3",
+          "b": "team-5",
+          "sa": "4",
+          "sb": "1",
+          "goals": {
+            "player-3-7": 2,
+            "player-3-9": 2,
+            "player-5-7": 1
+          },
+          "cards": {
+            "player-3-9": {
+              "yellow": 1,
+              "red": 0
+            }
+          },
+          "notes": {},
+          "number": 22,
+          "cycle": 1
+        },
+        {
+          "id": "match-23",
+          "a": "team-9",
+          "b": "team-6",
+          "sa": "2",
+          "sb": "4",
+          "goals": {
+            "player-9-11": 2,
+            "player-6-10": 3,
+            "player-6-12": 1
+          },
+          "cards": {},
+          "notes": {},
+          "number": 23,
+          "cycle": 1
+        },
+        {
+          "id": "match-24",
+          "a": "team-8",
+          "b": "team-7",
+          "sa": "1",
+          "sb": "2",
+          "goals": {
+            "player-8-10": 1,
+            "player-7-8": 1,
+            "player-7-9": 1
+          },
+          "cards": {},
+          "notes": {},
+          "number": 24,
+          "cycle": 1
+        }
+      ]
+    },
+    {
+      "id": "round-7",
+      "name": "7-тур",
+      "date": "2026-10-21",
+      "start": "16:30",
+      "matches": [
+        {
+          "id": "match-25",
+          "a": "team-2",
+          "b": "team-3",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 25,
+          "cycle": 1
+        },
+        {
+          "id": "match-26",
+          "a": "team-4",
+          "b": "team-9",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 26,
+          "cycle": 1
+        },
+        {
+          "id": "match-27",
+          "a": "team-5",
+          "b": "team-8",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 27,
+          "cycle": 1
+        },
+        {
+          "id": "match-28",
+          "a": "team-6",
+          "b": "team-7",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 28,
+          "cycle": 1
+        }
+      ]
+    },
+    {
+      "id": "round-8",
+      "name": "8-тур",
+      "date": "2026-10-22",
+      "start": "16:30",
+      "matches": [
+        {
+          "id": "match-29",
+          "a": "team-9",
+          "b": "team-2",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 29,
+          "cycle": 2
+        },
+        {
+          "id": "match-30",
+          "a": "team-8",
+          "b": "team-3",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 30,
+          "cycle": 2
+        },
+        {
+          "id": "match-31",
+          "a": "team-7",
+          "b": "team-4",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 31,
+          "cycle": 2
+        },
+        {
+          "id": "match-32",
+          "a": "team-6",
+          "b": "team-5",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 32,
+          "cycle": 2
+        }
+      ]
+    },
+    {
+      "id": "round-9",
+      "name": "9-тур",
+      "date": "2026-10-28",
+      "start": "16:30",
+      "matches": [
+        {
+          "id": "match-33",
+          "a": "team-2",
+          "b": "team-8",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 33,
+          "cycle": 2
+        },
+        {
+          "id": "match-34",
+          "a": "team-9",
+          "b": "team-7",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 34,
+          "cycle": 2
+        },
+        {
+          "id": "match-35",
+          "a": "team-3",
+          "b": "team-6",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 35,
+          "cycle": 2
+        },
+        {
+          "id": "match-36",
+          "a": "team-4",
+          "b": "team-5",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 36,
+          "cycle": 2
+        }
+      ]
+    },
+    {
+      "id": "round-10",
+      "name": "10-тур",
+      "date": "2026-10-29",
+      "start": "16:30",
+      "matches": [
+        {
+          "id": "match-37",
+          "a": "team-7",
+          "b": "team-2",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 37,
+          "cycle": 2
+        },
+        {
+          "id": "match-38",
+          "a": "team-6",
+          "b": "team-8",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 38,
+          "cycle": 2
+        },
+        {
+          "id": "match-39",
+          "a": "team-5",
+          "b": "team-9",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 39,
+          "cycle": 2
+        },
+        {
+          "id": "match-40",
+          "a": "team-4",
+          "b": "team-3",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 40,
+          "cycle": 2
+        }
+      ]
+    },
+    {
+      "id": "round-11",
+      "name": "11-тур",
+      "date": "2026-11-04",
+      "start": "16:30",
+      "matches": [
+        {
+          "id": "match-41",
+          "a": "team-2",
+          "b": "team-6",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 41,
+          "cycle": 2
+        },
+        {
+          "id": "match-42",
+          "a": "team-7",
+          "b": "team-5",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 42,
+          "cycle": 2
+        },
+        {
+          "id": "match-43",
+          "a": "team-8",
+          "b": "team-4",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 43,
+          "cycle": 2
+        },
+        {
+          "id": "match-44",
+          "a": "team-9",
+          "b": "team-3",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 44,
+          "cycle": 2
+        }
+      ]
+    },
+    {
+      "id": "round-12",
+      "name": "12-тур",
+      "date": "2026-11-05",
+      "start": "16:30",
+      "matches": [
+        {
+          "id": "match-45",
+          "a": "team-5",
+          "b": "team-2",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 45,
+          "cycle": 2
+        },
+        {
+          "id": "match-46",
+          "a": "team-4",
+          "b": "team-6",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 46,
+          "cycle": 2
+        },
+        {
+          "id": "match-47",
+          "a": "team-3",
+          "b": "team-7",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 47,
+          "cycle": 2
+        },
+        {
+          "id": "match-48",
+          "a": "team-9",
+          "b": "team-8",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 48,
+          "cycle": 2
+        }
+      ]
+    },
+    {
+      "id": "round-13",
+      "name": "13-тур",
+      "date": "2026-11-11",
+      "start": "16:30",
+      "matches": [
+        {
+          "id": "match-49",
+          "a": "team-2",
+          "b": "team-4",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 49,
+          "cycle": 2
+        },
+        {
+          "id": "match-50",
+          "a": "team-5",
+          "b": "team-3",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 50,
+          "cycle": 2
+        },
+        {
+          "id": "match-51",
+          "a": "team-6",
+          "b": "team-9",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 51,
+          "cycle": 2
+        },
+        {
+          "id": "match-52",
+          "a": "team-7",
+          "b": "team-8",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 52,
+          "cycle": 2
+        }
+      ]
+    },
+    {
+      "id": "round-14",
+      "name": "14-тур",
+      "date": "2026-11-12",
+      "start": "16:30",
+      "matches": [
+        {
+          "id": "match-53",
+          "a": "team-3",
+          "b": "team-2",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 53,
+          "cycle": 2
+        },
+        {
+          "id": "match-54",
+          "a": "team-9",
+          "b": "team-4",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 54,
+          "cycle": 2
+        },
+        {
+          "id": "match-55",
+          "a": "team-8",
+          "b": "team-5",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 55,
+          "cycle": 2
+        },
+        {
+          "id": "match-56",
+          "a": "team-7",
+          "b": "team-6",
+          "sa": "",
+          "sb": "",
+          "goals": {},
+          "cards": {},
+          "notes": {},
+          "number": 56,
+          "cycle": 2
+        }
+      ]
+    }
+  ]
+}
