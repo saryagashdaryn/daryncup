@@ -1,2 +1,4 @@
-import {getChatGPTUser} from './chatgpt-auth';
-export async function canManageTournament(){const user=await getChatGPTUser();return !!user&&user.email.toLowerCase()==='amanzhol_dastan_9@bilimclass.kz';}
+import {headers} from 'next/headers';
+import {env} from 'cloudflare:workers';
+import {validSession} from '../lib/admin-auth';
+export async function canManageTournament(){return validSession((await headers()).get('cookie'),env.ADMIN_PASSWORD);}

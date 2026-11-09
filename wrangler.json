@@ -1,0 +1,19 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "daryncup",
+  "main": "worker/index.ts",
+  "account_id": "2c6bbf012a0faf6791244ee7b1589dfc",
+  "compatibility_date": "2026-05-15",
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  "workers_dev": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "daryn-cup-db",
+      "database_id": "99d1eb72-5223-4219-a04e-1618e675983a",
+      "migrations_dir": "migrations"
+    }
+  ]
+}
